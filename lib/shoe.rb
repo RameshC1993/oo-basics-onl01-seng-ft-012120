@@ -29,7 +29,7 @@ class Shoe
   def condition
     return @condition
   end
-  def shoe_cobble 
+  def cobble 
     puts "Your shoe is as good as new!"
   end
 end
