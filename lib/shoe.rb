@@ -30,5 +30,6 @@ class Shoe
     return @condition
   end
   def shoe_cobble 
-    puts ""
+    puts "Your shoe is as good as new!"
+  end
 end
