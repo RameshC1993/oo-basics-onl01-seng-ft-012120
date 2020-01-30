@@ -29,4 +29,6 @@ class Shoe
   def condition
     return @condition
   end
+  def shoe_cobble 
+    puts ""
 end
