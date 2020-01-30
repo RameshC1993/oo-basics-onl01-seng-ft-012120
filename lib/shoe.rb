@@ -23,4 +23,10 @@ class Shoe
   def material
     return @material
   end
+  def condition=(condition)
+    @condition = condition
+  end
+  def condition
+    return @condition
+  end
 end
