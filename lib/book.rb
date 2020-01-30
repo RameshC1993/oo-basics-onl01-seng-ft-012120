@@ -3,6 +3,7 @@ class Book
     @title = title
   end
   def title 
+    return @title
   end
 end
 
